@@ -1,6 +1,6 @@
 # CRC-Multilayer-Pipeline: Integrated Multilayer Biological Network & Machine Learning for CRC Biomarker Discovery
 
-A comprehensive computational pipeline designed for **Colorectal Cancer (CRC) microbial biomarker identification, clinical stage progression analysis, multilayer biological network integration, and machine learning classification.
+A comprehensive computational pipeline designed for Colorectal Cancer (CRC) microbial biomarker identification, clinical stage progression analysis, multilayer biological network integration, and machine learning classification.
 
 ## Overview & Biological Architecture
 
